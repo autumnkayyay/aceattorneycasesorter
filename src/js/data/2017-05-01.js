@@ -121,7 +121,6 @@ dataSet[dataSetVersion].characterData = [
       "series": ["AA3"]
     }
   },
-  [
   {
     "name": "Turnabout Trump",
     "img": "turnabouttrump.png",
@@ -220,7 +219,6 @@ dataSet[dataSetVersion].characterData = [
       "series": ["AA6"]
     }
   },
-  [
   {
     "name": "Turnabout Visitor",
     "img": "turnaboutvisitor.png",
@@ -291,7 +289,6 @@ dataSet[dataSetVersion].characterData = [
       "series": ["AAI2"]
     }
   },
-  [
   {
     "name": "The Adventure of the Great Departure",
     "img": "theadventureofthegreatdeparture.png",
