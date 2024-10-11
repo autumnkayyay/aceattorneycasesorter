@@ -23,7 +23,6 @@ dataSet[dataSetVersion].options = [
 ];
 
 dataSet[dataSetVersion].characterData = [
-[
   {
     "name": "The First Turnabout",
     "img": "thefirstturnabout.png",
