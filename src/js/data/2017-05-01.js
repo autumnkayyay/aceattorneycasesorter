@@ -25,336 +25,336 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
   {
     "name": "The First Turnabout",
-    "img": "thefirstturnabout.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["AA1"],
     }
   },
   {
     "name": "Turnabout Sisters",
-    "img": "turnaboutsisters.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["AA1"],
     }
   },
   {
     "name": "Turnabout Samurai",
-    "img": "turnaboutsamurai.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["AA1"],
     }
   },
   {
     "name": "Turnabout Goodbyes",
-    "img": "turnaboutgoodbyes.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["AA1"],
     }
   },
   {
     "name": "Rise from the Ashes",
-    "img": "risefromtheashes.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["AA1"],
     }
   },
   {
     "name": "The Lost Turnabout",
-    "img": "thelostturnabout.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["AA2"],
     }
   },
   {
     "name": "Reunion, and Turnabout",
-    "img": "reunionandturnabout.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["AA2"],
     }
   },
   {
     "name": "Turnabout Big Top",
-    "img": "turnaboutbigtop.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["AA2"],
     }
   },
   {
     "name": "Farewell, My Turnabout",
-    "img": "farewellmyturnabout.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["AA2"],
     }
   },
   {
     "name": "Turnabout Memories",
-    "img": "turnaboutmemories.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["AA3"],
     }
   },
   {
     "name": "The Stolen Turnabout",
-    "img": "thestolenturnabout.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["AA3"],
     }
   },
   {
     "name": "Recipe for Turnabout",
-    "img": "recipeforturnabout.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["AA3"],
     }
   },
   {
     "name": "Turnabout Beginnings",
-    "img": "turnaboutbeginnings.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["AA3"],
     }
   },
   {
     "name": "Bridge to the Turnabout",
-    "img": "bridgetotheturnabout.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["AA3"],
     }
   },
   {
     "name": "Turnabout Trump",
-    "img": "turnabouttrump.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["AA4"],
     }
   },
   {
     "name": "Turnabout Corner",
-    "img": "turnaboutcorner.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["AA4"],
     }
   },
   {
     "name": "Turnabout Serenade",
-    "img": "turnaboutserenade.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["AA4"],
     }
   },
   {
     "name": "Turnabout Succession",
-    "img": "turnaboutsuccession.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["AA4"],
     }
   },
   {
     "name": "Turnabout Countdown",
-    "img": "turnaboutcountdown.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["AA5"],
     }
   },
   {
     "name": "The Monstrous Turnabout",
-    "img": "themonstrousturnabout.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["AA5"],
     }
   },
   {
     "name": "Turnabout Academy",
-    "img": "turnaboutacademy.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["AA5"],
     }
   },
   {
     "name": "The Cosmic Turnabout",
-    "img": "thecosmicturnabout.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["AA5"],
     }
   },
   {
     "name": "Turnabout for Tomorrow",
-    "img": "turnaboutfortomorrow.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["AA5"],
     }
   },
   {
     "name": "The Foreign Turnabout",
-    "img": "theforeignturnabout.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["AA6"],
     }
   },
   {
     "name": "The Magical Turnabout",
-    "img": "themagicalturnabout.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["AA6"],
     }
   },
   {
     "name": "The Rite of Turnabout",
-    "img": "theriteofturnabout.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["AA6"],
     }
   },
   {
     "name": "Turnabout Storyteller",
-    "img": "turnaboutstoryteller.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["AA6"],
     }
   },
   {
     "name": "Turnabout Revolution",
-    "img": "turnaboutrevolution.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["AA6"],
     }
   },
   {
     "name": "Turnabout Visitor",
-    "img": "turnaboutvisitor.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["AAI"],
     }
   },
   {
     "name": "Turnabout Airlines",
-    "img": "turnaboutairlines.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["AAI"],
     }
   },
   {
     "name": "The Kidnapped Turnabout",
-    "img": "thekidnappedturnabout.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["AAI"],
     }
   },
   {
     "name": "Turnabout Reminiscence",
-    "img": "turnaboutreminiscence.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["AAI"],
     }
   },
   {
     "name": "Turnabout Ablaze",
-    "img": "turnaboutablaze.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["AAI"],
     }
   },
   {
     "name": "Turnabout Trigger",
-    "img": "turnabouttrigger.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["AAI2"],
     }
   },
   {
     "name": "The Captive Turnabout",
-    "img": "thecaptiveturnabout.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["AAI2"],
     }
   },
   {
     "name": "Turnabout Legacy",
-    "img": "turnaboutlegacy.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["AAI2"],
     }
   },
   {
     "name": "A Turnabout Forsaken",
-    "img": "aturnaboutforsaken.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["AAI2"],
     }
   },
   {
     "name": "Turnabout for the Ages",
-    "img": "turnaboutfortheages.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["AAI2"],
     }
   },
   {
     "name": "The Adventure of the Great Departure",
-    "img": "theadventureofthegreatdeparture.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["DGS"],
     }
   },
   {
     "name": "The Adventure of the Unbreakable Speckled Band",
-    "img": "theadventureoftheunbreakablespeckledband.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["DGS"],
     }
   },
   {
     "name": "The Adventure of the Runaway Room",
-    "img": "theadventureoftherunawayroom.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["DGS"],
     }
   },
   {
     "name": "The Adventure of the Clouded Kokoro",
-    "img": "theadventureofthecloudedkokoro.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["DGS"],
     }
   },
   {
     "name": "The Adventure of the Unspeakable Story",
-    "img": "theadventureoftheunspeakablestory.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["DGS"],
     }
   },
   {
     "name": "The Adventure of the Blossoming Attorney",
-    "img": "theadventureoftheblossomingattorney.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["DGS2"],
     }
   },
   {
     "name": "The Memoirs of the Clouded Kokoro",
-    "img": "thememoirsofthecloudedkokoro.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["DGS2"],
     }
   },
   {
     "name": "The Return of the Great Departure",
-    "img": "thereturnofthegreatdeparture.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["DGS2"],
     }
   },
   {
     "name": "Twisted Karma and His Last Bow",
-    "img": "twistedkarmaandhislastbow.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["DGS2"],
     }
   },
   {
     "name": "The Resolve of Ryunosuke Naruhodo",
-    "img": "theresolveofryunosukenaruhodo.png",
+    "img": "naCoHtd.png",
     "opts": {
       "series": ["DGS2"],
     }
