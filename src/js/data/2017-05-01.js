@@ -5,7 +5,7 @@ dataSet[dataSetVersion].options = [
   {
     name: "Filter by Series Entry",
     key: "series",
-    tooltip: "Check this to restrict to .",
+    tooltip: "Check this to restrict to specific series entries.",
     checked: false,
     sub: [
       { name: "Phoenix Wright: Ace Attorney", key: "AA1" },
@@ -25,336 +25,336 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
   {
     "name": "The First Turnabout",
-    "img": "thefirstturnabout.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["AA1"]
     }
   },
   {
     "name": "Turnabout Sisters",
-    "img": "turnaboutsisters.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["AA1"]
     }
   },
   {
     "name": "Turnabout Samurai",
-    "img": "turnaboutsamurai.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["AA1"]
     }
   },
   {
     "name": "Turnabout Goodbyes",
-    "img": "turnaboutgoodbyes.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["AA1"]
     }
   },
   {
     "name": "Rise from the Ashes",
-    "img": "risefromtheashes.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["AA1"]
     }
   },
   {
     "name": "The Lost Turnabout",
-    "img": "thelostturnabout.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["AA2"]
     }
   },
   {
     "name": "Reunion, and Turnabout",
-    "img": "reunionandturnabout.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["AA2"]
     }
   },
   {
     "name": "Turnabout Big Top",
-    "img": "turnaboutbigtop.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["AA2"]
     }
   },
   {
     "name": "Farewell, My Turnabout",
-    "img": "farewellmyturnabout.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["AA2"]
     }
   },
   {
     "name": "Turnabout Memories",
-    "img": "turnaboutmemories.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["AA3"]
     }
   },
   {
     "name": "The Stolen Turnabout",
-    "img": "thestolenturnabout.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["AA3"]
     }
   },
   {
     "name": "Recipe for Turnabout",
-    "img": "recipeforturnabout.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["AA3"]
     }
   },
   {
     "name": "Turnabout Beginnings",
-    "img": "turnaboutbeginnings.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["AA3"]
     }
   },
   {
     "name": "Bridge to the Turnabout",
-    "img": "bridgetotheturnabout.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["AA3"]
     }
   },
   {
     "name": "Turnabout Trump",
-    "img": "turnabouttrump.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["AA4"]
     }
   },
   {
     "name": "Turnabout Corner",
-    "img": "turnaboutcorner.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["AA4"]
     }
   },
   {
     "name": "Turnabout Serenade",
-    "img": "turnaboutserenade.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["AA4"]
     }
   },
   {
     "name": "Turnabout Succession",
-    "img": "turnaboutsuccession.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["AA4"]
     }
   },
   {
     "name": "Turnabout Countdown",
-    "img": "turnaboutcountdown.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["AA5"]
     }
   },
   {
     "name": "The Monstrous Turnabout",
-    "img": "themonstrousturnabout.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["AA5"]
     }
   },
   {
     "name": "Turnabout Academy",
-    "img": "turnaboutacademy.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["AA5"]
     }
   },
   {
     "name": "The Cosmic Turnabout",
-    "img": "thecosmicturnabout.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["AA5"]
     }
   },
   {
     "name": "Turnabout for Tomorrow",
-    "img": "turnaboutfortomorrow.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["AA5"]
     }
   },
   {
     "name": "The Foreign Turnabout",
-    "img": "theforeignturnabout.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["AA6"]
     }
   },
   {
     "name": "The Magical Turnabout",
-    "img": "themagicalturnabout.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["AA6"]
     }
   },
   {
     "name": "The Rite of Turnabout",
-    "img": "theriteofturnabout.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["AA6"]
     }
   },
   {
     "name": "Turnabout Storyteller",
-    "img": "turnaboutstoryteller.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["AA6"]
     }
   },
   {
     "name": "Turnabout Revolution",
-    "img": "turnaboutrevolution.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["AA6"]
     }
   },
   {
     "name": "Turnabout Visitor",
-    "img": "turnaboutvisitor.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["AAI"]
     }
   },
   {
     "name": "Turnabout Airlines",
-    "img": "turnaboutairlines.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["AAI"]
     }
   },
   {
     "name": "The Kidnapped Turnabout",
-    "img": "thekidnappedturnabout.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["AAI"]
     }
   },
   {
     "name": "Turnabout Reminiscence",
-    "img": "turnaboutreminiscence.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["AAI"]
     }
   },
   {
     "name": "Turnabout Ablaze",
-    "img": "turnaboutablaze.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["AAI"]
     }
   },
   {
     "name": "Turnabout Trigger",
-    "img": "turnabouttrigger.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["AAI2"]
     }
   },
   {
     "name": "The Captive Turnabout",
-    "img": "thecaptiveturnabout.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["AAI2"]
     }
   },
   {
     "name": "Turnabout Legacy",
-    "img": "turnaboutlegacy.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["AAI2"]
     }
   },
   {
     "name": "A Turnabout Forsaken",
-    "img": "aturnaboutforsaken.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["AAI2"]
     }
   },
   {
     "name": "Turnabout for the Ages",
-    "img": "turnaboutfortheages.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["AAI2"]
     }
   },
   {
     "name": "The Adventure of the Great Departure",
-    "img": "theadventureofthegreatdeparture.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["DGS"]
     }
   },
   {
     "name": "The Adventure of the Unbreakable Speckled Band",
-    "img": "theadventureoftheunbreakablespeckledband.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["DGS"]
     }
   },
   {
     "name": "The Adventure of the Runaway Room",
-    "img": "theadventureoftherunawayroom.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["DGS"]
     }
   },
   {
     "name": "The Adventure of the Clouded Kokoro",
-    "img": "theadventureofthecloudedkokoro.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["DGS"]
     }
   },
   {
     "name": "The Adventure of the Unspeakable Story",
-    "img": "theadventureoftheunspeakablestory.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["DGS"]
     }
   },
   {
     "name": "The Adventure of the Blossoming Attorney",
-    "img": "theadventureoftheblossomingattorney.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["DGS2"]
     }
   },
   {
     "name": "The Memoirs of the Clouded Kokoro",
-    "img": "thememoirsofthecloudedkokoro.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["DGS2"]
     }
   },
   {
     "name": "The Return of the Great Departure",
-    "img": "thereturnofthegreatdeparture.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["DGS2"]
     }
   },
   {
     "name": "Twisted Karma and His Last Bow",
-    "img": "twistedkarmaandhislastbow.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["DGS2"]
     }
   },
   {
     "name": "The Resolve of Naruhodo",
-    "img": "theresolveofnaruhodo.png",
+    "img": "Untitled.png",
     "opts": {
       "series": ["DGS2"]
     }
